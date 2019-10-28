@@ -1,21 +1,19 @@
-.navbar .navbar-brand,
-.navbar-header,
+.navbar .container,
 .navbar-collapse {
-    /* padding-top:90px; */
-    /* padding-left:150px; */
-    /* padding-right:100px; */
+    padding-top:20px; */
+    padding-left:150px; */
+    padding-right:100px;
   }
 
 
   h1,
-  .navbar .navbar-brand,
+  .navbar .container,
   .navbar-collapse  {
     font-family: 'Merriweather', serif;
   }
 
   /* change the background color */
-  .navbar-custom .navbar-brand,
-  .navbar-header,
+  .navbar-default .container,
   .navbar-collapse {
       background-color: #171A22;
   }
