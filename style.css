@@ -9,7 +9,8 @@
   h1,
   .navbar .container,
   .navbar-collapse  {
-    font-family: 'Arial', serif;
+    font-family: 'Motiva Sans', sans-serif;
+    font-size: 14px;
   }
 
   /* change the background color */
@@ -19,5 +20,19 @@
   }
 
   .navbar .container .nav-item {
-      color: gray;
+      color: #B8B6B4;
   }
+
+  .rec_container h2{
+   color: white;
+   font-family: 'Motiva Sans', sans-serif;
+   font-size: 14px;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+}
+
+.image {
+  padding-top:20px;
+  padding-left:150px;
+  padding-right:20px;
+}
