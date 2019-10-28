@@ -9,11 +9,15 @@
   h1,
   .navbar .container,
   .navbar-collapse  {
-    font-family: 'Merriweather', serif;
+    font-family: 'Arial', serif;
   }
 
   /* change the background color */
-  .navbar-default .container,
+  .navbar .container,
   .navbar-collapse {
       background-color: #171A22;
+  }
+
+  .navbar .container .nav-item {
+      color: gray;
   }
