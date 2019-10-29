@@ -14,7 +14,7 @@
   }
 
   /* change the background color */
-  .navbar .container,
+  .navbar,
   .navbar-collapse {
       background-color: #171A22;
   }
@@ -24,15 +24,24 @@
   }
 
   .rec_container h2{
+
    color: white;
    font-family: 'Motiva Sans', sans-serif;
    font-size: 14px;
    text-transform: uppercase;
    letter-spacing: 3px;
+   padding-left: 90px;
+   padding-top: 20px;
 }
 
 .image {
   padding-top:20px;
   padding-left:150px;
   padding-right:20px;
+}
+
+.header {
+  padding-top:100px;
+  width:1500px;
+  height:620px;
 }
