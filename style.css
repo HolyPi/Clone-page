@@ -23,6 +23,11 @@
       color: #B8B6B4;
   }
 
+  .nav-item {
+
+
+  }
+
   .rec_container h2{
 
    color: white;
@@ -44,4 +49,16 @@
   padding-top:100px;
   width:1500px;
   height:620px;
+}
+
+.spe_container {
+  color: white;
+  font-family: 'Motiva Sans', sans-serif;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+
+}
+.car2_container {
+  padding-left:-100px;
 }
